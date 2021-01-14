@@ -1,5 +1,6 @@
 # ddoor
 cross platform backdoor using dns txt records
+This fork is meant to impliment DNS over HTTPS (DoH) 
 ## What is ddor?
 ddor is a cross platform light weight backdoor that uses txt records to execute commands on infected machines.
 ## Features
